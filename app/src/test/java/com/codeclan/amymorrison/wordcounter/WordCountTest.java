@@ -21,6 +21,8 @@ public class WordCountTest {
     public void before(){
         wordCounter = new WordCount();
         wordFrequency = new HashMap<>();
+
+
     }
 
     @Test
