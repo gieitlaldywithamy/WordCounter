@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="userText">Enter text to analyse...</string>
+    <string name="wordfrequencyranking" />
+</resources>
